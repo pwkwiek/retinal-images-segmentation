@@ -44,7 +44,7 @@ where:
 
 Achieved results:
 
-Training and validation results for attention U-ne
+Training and validation results for attention U-net
 ![results](results.png)
 ![results_compare](results_compare.png)
 Comparison of predicted segmentation with ground truth for one of the RGB images from the test set (mean DICE value for test set = 0.91)
