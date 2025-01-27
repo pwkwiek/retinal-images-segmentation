@@ -38,11 +38,9 @@ Schematic representation of Attention U-Net architecture
 
 input shape: 256x256xDEPTH
 
-where 
-
-DEPTH = 3 for RGB images
-
-DEPTH = 1 for R,G,B and grayscale images
+where:
+- DEPTH = 3 for RGB images
+- DEPTH = 1 for R,G,B and grayscale images
 
 Achieved results:
 
